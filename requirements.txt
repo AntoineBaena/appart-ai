@@ -1,0 +1,14 @@
+requests==2.7.0
+pandas==1.0.3
+python-telegram-bot==12.5.1
+emoji==0.5.4
+telegram==0.0.1
+numpy==1.18.2
+DateTime==4.3
+DateTime==4.3
+
+
+
+
+
+
